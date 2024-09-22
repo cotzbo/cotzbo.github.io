@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cotzbo.github.io/sitemap.html.gz
+Sitemap: https://cotzbo.github.io/app/sitemap.html.gz
+Sitemap: https://cotzbo.github.io/assets/sitemap.html.gz
+Sitemap: https://cotzbo.github.io/css/sitemap.html.gz
+Sitemap: https://cotzbo.github.io/data/sitemap.html.gz
+Sitemap: https://cotzbo.github.io/includes/sitemap.html.gz
+Sitemap: https://cotzbo.github.io/item/sitemap.html.gz
+Sitemap: https://cotzbo.github.io/src/sitemap.html.gz
